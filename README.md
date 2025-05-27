@@ -16,7 +16,7 @@
 ---
 
 - 🔭 I’m currently learning **Full Stack Development**
-- 📫 Reach me at: **kshiva09283@gmail.com**
+- 📫 Reach me at:**kshiva09283@gmail.com**
 
 ---
 
