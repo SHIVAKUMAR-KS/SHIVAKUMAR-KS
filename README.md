@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/SHIVAKUMAR-KS/SHIVAKUMAR-KS/blob/main/CodingPic.png" alt="Logo" height="200"/>
+  <img src="https://github.com/SHIVAKUMAR-KS/SHIVAKUMAR-KS/blob/main/CodingPic.png" alt="Logo" width="300" height="300"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Shiva Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
