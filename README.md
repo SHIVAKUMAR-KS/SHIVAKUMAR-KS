@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shiva kumar" target="blank"><img src="https://img.shields.io/twitter/follow/shiva kumar?logo=twitter&style=for-the-badge" alt="shiva kumar" /></a> </p>
 
-- 🌱 I’m currently learning **AI Focused(RAG,N8N,Langchain,Kafka,Docker)**
+- 🌱 I’m currently learning **AI Focused(RAG,N8N,Langchain,Generative AI,Kafka)**
 
 - 📫 How to reach me **kshiva09283@gmail.com**
 
