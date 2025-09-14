@@ -1,6 +1,6 @@
 ![logo](https://github.com/SHIVAKUMAR-KS/SHIVAKUMAR-KS/blob/main/CodingPic.png)
 
-<h1 align="center">Hi 👋, I'm Shiva kumar</h1>
+<h1 align="center">Hi 👋, I'm Shiva Kumar</h1>
 
 <h3 align="center">A Passionate Software developer from India</h3>
 
